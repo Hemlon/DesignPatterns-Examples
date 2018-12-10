@@ -1,0 +1,5 @@
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
