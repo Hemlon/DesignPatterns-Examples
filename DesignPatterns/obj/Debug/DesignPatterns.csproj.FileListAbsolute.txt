@@ -1,0 +1,7 @@
+C:\Users\Lonz\AppData\Local\Temporary Projects\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Google Drive\2016 Current Working Folder\Personal Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
